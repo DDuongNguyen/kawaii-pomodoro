@@ -2,17 +2,8 @@
 
 A kawaii RPG-themed pomodoro timer for the terminal.
 
-```
-♪ /\_/\ ♪
- (^>ω<^)
-   \  /
+<img width="896" height="778" alt="image" src="https://github.com/user-attachments/assets/b929a920-75c0-4af5-98af-3cbc282c9ebe" />
 
-  ♥ ♥ ♥
-
-  WORK  24:12
-  ████████████░░░░
-   focused!
-```
 
 ## Features
 - RPG system: hearts, HP bar (stamina), XP/leveling
