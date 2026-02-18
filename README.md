@@ -20,6 +20,12 @@ A kawaii RPG-themed pomodoro timer for the terminal.
 - `spotify_player` CLI (optional)
 - iTerm2 or Alacritty recommended (for synchronized output support)
 
+## Install
+```bash
+curl -o pomodoro.sh https://raw.githubusercontent.com/DDuongNguyen/kawaii-pomodoro/main/pomodoro.sh
+chmod +x pomodoro.sh
+```
+
 ## Usage
 ```bash
 bash pomodoro.sh
